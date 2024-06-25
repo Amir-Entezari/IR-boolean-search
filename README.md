@@ -32,7 +32,7 @@ The repository contains:
 
 To get started with this project, clone this repository using:
 ```bash
-git clone https://github.com/your-github-username/your-repository-name.git
+git clone https://github.com/Amir-Entezari/IR-boolean-search.git
 ```
 Install the required packages:
 ```bash
